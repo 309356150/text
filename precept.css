@@ -1,0 +1,38 @@
+#{
+    margin: 0;
+    padding: 0;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: #424242;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.first{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+.hand{
+    width: 100%;
+    height: 100px;
+    background-color: antiquewhite;
+}
+.center{
+    width: 100px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+}
+.botm{
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+    position: fixed;
+    margin-top: 300px;
+}
